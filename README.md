@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there I'm Moni Shankar 👋
 
 <!--
 **Moni05/Moni05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am full stack web developer. I like to make digital experiences easier and simpler for people.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
