@@ -1,15 +1,25 @@
-### Hi I'm Moni Shankar 👋
+## Hey 👋, I'm [Moni Shankar R S!](https://github.com/Moni05)
 
-<!--
-**Moni05/Moni05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/moni-shankar-r-s/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://monishankar-portfolio.herokuapp.com/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/MoniShankar_RS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div class="introduction-wrapper"><div class="container"><div class="row"><div class="col-md-6"><div class="intro"><h3 class="salutation">Hey there,</h3><p class="intro-text">I am <span class="name">Moni Shankar</span>, I am Full-Stack JavaScript Developer. I like to make digital experiences easier and simpler for people.</p><div class="social-media-wrapper"><div class="social-icon"><a href="https://www.linkedin.com/in/moni-shankar-r-s/" target="_blank" class="field-social-media-wrap linkedin"><span class="fa fa-linkedin"></span></a></div><div class="social-icon"><a href="https://github.com/Moni05" target="_blank" class="field-social-media-wrap github"><span class="fa fa-github"></span></a></div><div class="social-icon"><a href="mailto:rs.monishankar96@gmail.com" target="_blank" class="field-social-media-wrap envelope"><span class="fa fa-envelope"></span></a></div></div><a href="https://drive.google.com/file/d/1Zcy6LReYb4qxCWhFE5hWFYPXq5kYYFSQ/view?usp=sharing" target="_blank"><button class="btn highlighted-btn">Get Resume</button></a></div></div><div class="col-md-6"><img src="https://firebasestorage.googleapis.com/v0/b/mern-project-images.appspot.com/o/freecodeformat.svg?alt=media&amp;token=974b2be1-eac8-45ff-894c-4bec2a0970a3" class="home-banner" alt="img"></div></div></div></div></div>
+
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Moni05.Moni05&style=flat-square&color=0088cc)
+
+I'm a graduate in Electronicns and Instrumentation Engineering 🎓 from St.Joseph's College Of Engineering, Chennai 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+
+
+### Talking about Personal Stuffs:
+
+- :classical_building:	&nbsp I have 3 yrs of work experience in Web development. Have experience in working CMS such as Drupal, SDL Tridion.
+- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Mongodb, Javascript.
+- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Moni05).
+- 📫 &nbsp; How to reach me: rs.monishankar96@gmail.com.
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1Zcy6LReYb4qxCWhFE5hWFYPXq5kYYFSQ/view).
+
+### My Absolute Favorites:
+
+- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
+- 🍕 &nbsp; Hackathons, meetups & tech events.
