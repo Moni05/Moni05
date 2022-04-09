@@ -39,3 +39,64 @@ I'm a graduate in Electronicns and Instrumentation Engineering 🎓 from St.Jose
 <code><img height="35" src="https://firebasestorage.googleapis.com/v0/b/mern-project-images.appspot.com/o/python.png?alt=media&token=398786fe-fe08-472c-8245-0044c928f391" alt="Python"></code>
 <code><img height="35" src="https://firebasestorage.googleapis.com/v0/b/mern-project-images.appspot.com/o/c.png?alt=media&token=5bc41e91-c526-4be4-8a3d-2f848ba204e6" alt="C"></code>
 <code><img height="35" src="https://firebasestorage.googleapis.com/v0/b/mern-project-images.appspot.com/o/drupal.png?alt=media&token=eefb606f-49da-4f53-895a-b75690b74bd0" alt="Drupal"></code>
+
+### Projects and Dev Stuffs:
+
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Moni05&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moni05&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
+
+<details>	
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Moni05&hide_border=true" />
+</details>
+
+<details>
+  <summary><b>🧑‍🚀 Open Source Projects</b></summary>
+
+  <br />
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>💻 Projects</b></td>
+        <td><b>🌟 Stars</b></td>
+        <td><b>🍴 Forks</b></td>
+        <td><b>🐛 Issues</b></td>
+        <td><b>🔔 Pull Requests</b></td>
+        <td><b>👨‍💻 Language</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+	      <td><a href="https://github.com/Moni05/E-commerce-frontend"><b>E-commerce APP</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Moni05/E-commerce-frontend?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/Moni05/E-commerce-frontend?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/Moni05/E-commerce-frontend?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Moni05/E-commerce-frontend?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top//Moni05/E-commerce-frontend?style=flat-square"/></td>
+      </tr>
+    </tbody>
+  </table>
+  <br />
+</details>
+ 
+<details>	
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+	</ul>	
+</details>
+
+#
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
