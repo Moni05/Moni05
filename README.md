@@ -70,7 +70,7 @@ I'm a graduate in Electronicns and Instrumentation Engineering 🎓 from St.Jose
         <td><b>🐛 Issues</b></td>
         <td><b>🔔 Pull Requests</b></td>
         <td><b>👨‍💻 Language</b></td>
-	      <td><b>:link: Link</b></td>
+	      <td><b>:link: Link/URL</b></td>
       </tr>
     </thead>
     <tbody>
