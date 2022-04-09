@@ -13,3 +13,5 @@
 - ⚡ Fun fact: ...
 -->
  I am full stack web developer. I like to make digital experiences easier and simpler for people.
+ 
+ I have over 3 years of work experience in web-development.I develop responsive websites using MERN Stack and different CMS.
