@@ -70,6 +70,7 @@ I'm a graduate in Electronicns and Instrumentation Engineering 🎓 from St.Jose
         <td><b>🐛 Issues</b></td>
         <td><b>🔔 Pull Requests</b></td>
         <td><b>👨‍💻 Language</b></td>
+	      <td><b>:link: Link</b></td>
       </tr>
     </thead>
     <tbody>
@@ -80,6 +81,7 @@ I'm a graduate in Electronicns and Instrumentation Engineering 🎓 from St.Jose
         <td><img alt="Issues" src="https://img.shields.io/github/issues/Moni05/E-commerce-frontend?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Moni05/E-commerce-frontend?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/Moni05/E-commerce-frontend?style=flat-square"/></td>
+	<td><a href="https://trusting-bhabha-12e2e0.netlify.app/register"><b>E-commerce APP</b></a></td>
       </tr>
       <tr>
 	<td><a href="https://github.com/Moni05/E-commerce-backend"><b>E-commerce Backend API</b></a></td>
@@ -88,6 +90,7 @@ I'm a graduate in Electronicns and Instrumentation Engineering 🎓 from St.Jose
         <td><img alt="Issues" src="https://img.shields.io/github/issues/Moni05/E-commerce-backend?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Moni05/E-commerce-backend?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/Moni05/E-commerce-backend?style=flat-square"/></td>
+	<td><a href="https://moni-e-commerce-server.herokuapp.com/"><b>E-commerce Backend API</b></a></td>
       </tr>
       <tr>
 	<td><a href="https://github.com/Moni05/Netflix-clone-frontend"><b>Netflix Frontend</b></a></td>
@@ -96,6 +99,7 @@ I'm a graduate in Electronicns and Instrumentation Engineering 🎓 from St.Jose
         <td><img alt="Issues" src="https://img.shields.io/github/issues/Moni05/Netflix-clone-frontend?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Moni05/Netflix-clone-frontend?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/Moni05/Netflix-clone-frontend?style=flat-square"/></td>
+	<td><a href="https://tender-roentgen-1a46a9.netlify.app/login"><b>Netflix Frontend</b></a></td>
       </tr>
       <tr>
 	<td><a href="https://github.com/Moni05/Netflix-clone-backend"><b>Netflix Backend API</b></a></td>
@@ -104,6 +108,7 @@ I'm a graduate in Electronicns and Instrumentation Engineering 🎓 from St.Jose
         <td><img alt="Issues" src="https://img.shields.io/github/issues/Moni05/Netflix-clone-backend?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Moni05/Netflix-clone-backend?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/Moni05/Netflix-clone-backend?style=flat-square"/></td>
+	<td><a href="https://moni-netflix-server.herokuapp.com/"><b>Netflix Backend API</b></a></td>
       </tr>
       <tr>
 	<td><a href="https://github.com/Moni05/Chatapp-frontend"><b>Chat APP</b></a></td>
@@ -112,6 +117,7 @@ I'm a graduate in Electronicns and Instrumentation Engineering 🎓 from St.Jose
         <td><img alt="Issues" src="https://img.shields.io/github/issues/Moni05/Chatapp-frontend?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Moni05/Chatapp-frontend?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/Moni05/Chatapp-frontend?style=flat-square"/></td>
+	<td><a href="https://frosty-brattain-784a4c.netlify.app/"><b>Chat APP</b></a></td>
       </tr>
       <tr>
 	<td><a href="https://github.com/Moni05/chatapp-backend"><b>Chat APP Backend API</b></a></td>
@@ -120,6 +126,7 @@ I'm a graduate in Electronicns and Instrumentation Engineering 🎓 from St.Jose
         <td><img alt="Issues" src="https://img.shields.io/github/issues/Moni05/chatapp-backend?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Moni05/chatapp-backend?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/Moni05/chatapp-backend?style=flat-square"/></td>
+	<td><a href="https://moni-chatapp-server.herokuapp.com/"><b>Chat APP Server API</b></a></td>
       </tr>
       <tr>
 	<td><a href="https://github.com/Moni05/crm-frontend"><b>CRM Ticket APP</b></a></td>
@@ -128,6 +135,7 @@ I'm a graduate in Electronicns and Instrumentation Engineering 🎓 from St.Jose
         <td><img alt="Issues" src="https://img.shields.io/github/issues/Moni05/crm-frontend?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Moni05/crm-frontend?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/Moni05/crm-frontend?style=flat-square"/></td>
+	<td><a href="https://romantic-lumiere-4ce94b.netlify.app/"><b>Chat APP</b></a></td>
       </tr>
       <tr>
 	<td><a href="https://github.com/Moni05/crm-backend"><b>CRM Backend API</b></a></td>
@@ -136,6 +144,7 @@ I'm a graduate in Electronicns and Instrumentation Engineering 🎓 from St.Jose
         <td><img alt="Issues" src="https://img.shields.io/github/issues/Moni05/crm-backend?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Moni05/crm-backend?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/Moni05/crm-backend?style=flat-square"/></td>
+	<td><a href="https://moni-crm-server.herokuapp.com/"><b>CRM Backend API</b></a></td>
       </tr>
     </tbody>
   </table>
