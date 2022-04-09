@@ -81,16 +81,65 @@ I'm a graduate in Electronicns and Instrumentation Engineering 🎓 from St.Jose
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Moni05/E-commerce-frontend?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/Moni05/E-commerce-frontend?style=flat-square"/></td>
       </tr>
+      <tr>
+	<td><a href="https://github.com/Moni05/E-commerce-backend"><b>E-commerce Backend API</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Moni05/E-commerce-backend?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/Moni05/E-commerce-backend?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/Moni05/E-commerce-backend?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Moni05/E-commerce-backend?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Moni05/E-commerce-backend?style=flat-square"/></td>
+      </tr>
+      <tr>
+	<td><a href="https://github.com/Moni05/Netflix-clone-frontend"><b>Netflix Frontend</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Moni05/Netflix-clone-frontend?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/Moni05/Netflix-clone-frontend?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/Moni05/Netflix-clone-frontend?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Moni05/Netflix-clone-frontend?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Moni05/Netflix-clone-frontend?style=flat-square"/></td>
+      </tr>
+      <tr>
+	<td><a href="https://github.com/Moni05/Netflix-clone-backend"><b>Netflix Backend API</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Moni05/Netflix-clone-backend?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/Moni05/Netflix-clone-backend?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/Moni05/Netflix-clone-backend?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Moni05/Netflix-clone-backend?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Moni05/Netflix-clone-backend?style=flat-square"/></td>
+      </tr>
+      <tr>
+	<td><a href="https://github.com/Moni05/Chatapp-frontend"><b>Chat APP</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Moni05/Chatapp-frontend?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/Moni05/Chatapp-frontend?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/Moni05/Chatapp-frontend?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Moni05/Chatapp-frontend?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Moni05/Chatapp-frontend?style=flat-square"/></td>
+      </tr>
+      <tr>
+	<td><a href="https://github.com/Moni05/chatapp-backend"><b>Chat APP Backend API</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Moni05/chatapp-backend?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/Moni05/chatapp-backend?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/Moni05/chatapp-backend?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Moni05/chatapp-backend?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Moni05/chatapp-backend?style=flat-square"/></td>
+      </tr>
+      <tr>
+	<td><a href="https://github.com/Moni05/crm-frontend"><b>CRM Ticket APP</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Moni05/crm-frontend?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/Moni05/crm-frontend?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/Moni05/crm-frontend?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Moni05/crm-frontend?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Moni05/crm-frontend?style=flat-square"/></td>
+      </tr>
+      <tr>
+	<td><a href="https://github.com/Moni05/crm-backend"><b>CRM Backend API</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Moni05/crm-backend?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/Moni05/crm-backend?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/Moni05/crm-backend?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Moni05/crm-backend?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Moni05/crm-backend?style=flat-square"/></td>
+      </tr>
     </tbody>
   </table>
   <br />
-</details>
- 
-<details>	
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-	</ul>	
 </details>
 
 #
