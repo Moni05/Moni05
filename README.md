@@ -74,12 +74,12 @@ I'm a graduate in Electronicns and Instrumentation Engineering 🎓 from St.Jose
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/Moni05/E-commerce-frontend"><b>E-commerce APP</b></a></td>
+	<td><a href="https://github.com/Moni05/E-commerce-frontend"><b>E-commerce APP</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/Moni05/E-commerce-frontend?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/Moni05/E-commerce-frontend?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/Moni05/E-commerce-frontend?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Moni05/E-commerce-frontend?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top//Moni05/E-commerce-frontend?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Moni05/E-commerce-frontend?style=flat-square"/></td>
       </tr>
     </tbody>
   </table>
